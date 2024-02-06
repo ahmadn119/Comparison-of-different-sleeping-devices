@@ -1,0 +1,5 @@
+sleep: "data"
+#fitbit-m: 'fitbit-m-P1.xlsx'
+img: "images/whiting_app.jpg"
+fitbit-m-P1: "excel/fitbit-m-P1.xlsx"
+fitbit-img: "images/fitbit-img.png"

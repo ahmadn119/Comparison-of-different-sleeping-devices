@@ -1,4 +1,3 @@
-# Comparison-of-different-sleeping-devices
 
 # Sleep Analysis Device Accuracy Comparison
 
