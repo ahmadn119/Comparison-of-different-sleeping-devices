@@ -3,6 +3,14 @@
 
 This Jupyter notebook is dedicated to assessing the accuracy of sleep data collected by two different sleep analysis devices. The objective is to compare and contrast the sleep details reported by each device, focusing on metrics such as sleep duration, sleep states data.
 
+## Suggested Usage with Sample Data
+To facilitate a straightforward way for users to validate and explore the analysis presented in this notebook, a sample data file has been included in the repository. This sample data pertains to the sleep analysis results for a specific date, allowing for a focused review of the methods and findings.
+
+Sample Data Overview
+Date of Interest: 11-1-2024
+Subject: P1
+
+
 ## Data Sources
 
 The analysis utilizes sleep data from the following devices:
